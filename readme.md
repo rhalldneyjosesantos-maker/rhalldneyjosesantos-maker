@@ -1,0 +1,37 @@
+# Olá, eu sou o Rhalldney Santos! 👋
+
+<p align="center">
+  <!-- Substitua o link abaixo pelo link da imagem que você baixar desta conversa e subir no seu repositório -->
+  <img src="https://raw.githubusercontent.com/rhalldneyjosesantos-maker/rhalldneyjosesantos-maker/main/Rhalldney_banner.png" alt="Rhalldney Santos - Banner Desenvolvedor" width="100%">
+</p>
+
+## 🚀 Sobre mim
+- 🎓 Estudando **Técnico em Desenvolvimento de Sistemas** no **Senac**.
+- 💻 Atualmente focado em dominar **Bancos de Dados** 📊 e aprimorar minhas habilidades de programação.
+- 🐶 Sempre acompanhado pelo meu fiel parceiro de estudos de quatro patas, que supervisiona cada linha de código!
+- 📫 Entre em contato comigo: 
+  [![E-mail](https://img.shields.io/badge/E--mail-rhalldney.josesantos%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rhalldney.josesantos@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhalldney_Santos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhalldney-santos-b37783237)
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens & Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Ferramentas & Ambientes
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rhalldneyjosesantos-maker&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhalldneyjosesantos-maker&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
+</p>
