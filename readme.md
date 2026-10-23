@@ -1,11 +1,18 @@
 # Olá, eu sou o Rhalldney Santos! 👋
 
+<div align="center">
+  <img src="./banner.gif" alt="Rhalldney Santos" width="854" />
+</div>
+
+---
+
 ## 🚀 Sobre mim
 - 🎓 Estudando **Técnico em Desenvolvimento de Sistemas** no **Senac**.
 - 💻 Atualmente focado em dominar **Bancos de Dados** 📊 e aprimorar minhas habilidades de programação.
 - 🐶 Sempre acompanhado pelo meu fiel parceiro de estudos de quatro patas, que supervisiona cada linha de código!
-- 📫 Entre em contato comigo: 
-  [![E-mail](https://img.shields.io/badge/E--mail-rhalldney.josesantos%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rhalldney.josesantos@gmail.com) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhalldney_Santos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhalldney-santos-b37783237)
+- 📫 Entre em contato comigo:  
+  [![E-mail](https://img.shields.io/badge/E--mail-rhalldney.josesantos%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rhalldney.josesantos@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhalldney_Santos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rhalldney-santos-b37783237)
 
 ---
 
@@ -21,13 +28,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-
----
-
-
-
-https://github.com/user-attachments/assets/cc23fb7e-b070-437a-84a3-feedb97d3b6f
-
