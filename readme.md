@@ -1,9 +1,5 @@
 # Olá, eu sou o Rhalldney Santos! 👋
 
-<p align="center">
-  <!-- Substitua o link abaixo pelo link da imagem que você baixar desta conversa e subir no seu repositório -->
-  <img src="https://raw.githubusercontent.com/rhalldneyjosesantos-maker/rhalldneyjosesantos-maker/main/Rhalldney_banner.png" alt="Rhalldney Santos - Banner Desenvolvedor" width="100%">
-</p>
 
 ## 🚀 Sobre mim
 - 🎓 Estudando **Técnico em Desenvolvimento de Sistemas** no **Senac**.
@@ -29,9 +25,3 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rhalldneyjosesantos-maker&show_icons=true&theme=radial" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhalldneyjosesantos-maker&layout=compact&theme=radial" alt="Linguagens mais usadas" height="150" />
-</p>
