@@ -1,6 +1,5 @@
 # Olá, eu sou o Rhalldney Santos! 👋
 
-
 ## 🚀 Sobre mim
 - 🎓 Estudando **Técnico em Desenvolvimento de Sistemas** no **Senac**.
 - 💻 Atualmente focado em dominar **Bancos de Dados** 📊 e aprimorar minhas habilidades de programação.
@@ -24,4 +23,11 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+
+
+---
+
+
+
+https://github.com/user-attachments/assets/cc23fb7e-b070-437a-84a3-feedb97d3b6f
 
